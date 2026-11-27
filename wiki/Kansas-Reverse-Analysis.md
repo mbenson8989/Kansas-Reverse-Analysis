@@ -288,6 +288,20 @@ Sedgwick’s 2026* Democratic registration share is 90,047 / 349,829 = 25.74%. D
 
 Pass 1 vs pass 2: see `verification/compare.json` after the compare script is run (13,544 field comparisons in the building run, 0 mismatches). Governor and Attorney General injection totals reproduce the earlier residual-plus-offset reversal exactly (71,703 and 74,243). The 2022 Governor constants reproduce the published values to four decimals.
 
+## Graphs
+
+**Highlighted:** Sedgwick County is the largest single-county injection in the Governor race.
+
+![Sedgwick County: 16,693 votes removed in the Governor race — the largest single-county injection in Kansas.](../graphics/KS_Sedgwick_largest_injection_callout.png)
+
+Sedgwick’s Governor total is 16,693 votes (9.1883% × 181,679). Johnson is a close second at 15,569, or 1,124 votes behind. Together they account for 32,262 of 71,703 statewide.
+
+Other graphics:
+
+- [`1_KS_senate_injection_removed.png`](../graphics/1_KS_senate_injection_removed.png) through [`6_KS_insurance_injection_removed.png`](../graphics/6_KS_insurance_injection_removed.png) — one plain-language graphic per race, titled “When you remove the injection equation / share injection, this is what happens”
+- [`7_KS_votes_removed_by_race.png`](../graphics/7_KS_votes_removed_by_race.png) — one bar per race; do not add the bars
+- [`8_KS_top10_by_race.png`](../graphics/8_KS_top10_by_race.png) — top ten counties in each race
+
 ## Files
 
 - `data/master_all_races.csv` — all 105 counties, all six races, sorted by 2025 population

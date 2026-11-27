@@ -13,3 +13,18 @@ Two independent verification passes over all 105 counties and all six races were
 This repository is private and is not part of the main Kansas Election Analysis repository.
 
 _Saved Friday, Nov 27, 2026, 11:04 AM CT (America/Chicago)._
+
+
+## Graphs
+
+**Highlighted:** Sedgwick County is the largest single-county injection in the Governor race.
+
+![Sedgwick County: 16,693 votes removed in the Governor race — the largest single-county injection in Kansas.](graphics/KS_Sedgwick_largest_injection_callout.png)
+
+Sedgwick’s Governor total is 16,693 votes (9.1883% × 181,679). Johnson is a close second at 15,569, or 1,124 votes behind. Together they account for 32,262 of 71,703 statewide.
+
+Other presentation graphics in `graphics/`:
+
+- [When you remove the injection equation / share injection, this is what happens](graphics/1_KS_senate_injection_removed.png) — one graphic per statewide race (`1`–`6`)
+- [Estimated injected votes by race](graphics/7_KS_votes_removed_by_race.png) — one bar per race; do not add the bars
+- [Top 10 counties by race](graphics/8_KS_top10_by_race.png)
