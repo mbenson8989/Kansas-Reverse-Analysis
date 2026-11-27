@@ -1,0 +1,7 @@
+race_key,race_name,m,b,r2,constant_source,dem_votes,rep_votes,total_votes,injected_votes_I,injected_unclamped,counties_I_gt_0,counties_clamped,winner_before,margin_before_pts,margin_before_votes,winner_after_transfer,margin_after_transfer_pts,margin_after_transfer_votes,winner_after_subtract,margin_after_subtract_pts,margin_after_subtract_votes,statewide_flips_transfer,county_flips_transfer
+sen,United States Senate,69.2709,6.2765,0.6771,fitted_4dp,561143,505558,1099896,75057,73166,102,3,D,5.05,55585,R,-8.59,-94529,R,-1.9,-19472,YES,Finney; Ford; Geary; Lyon; Riley; Sedgwick; Seward
+gov,Governor,67.6004,6.3014,0.6806,locked,551243,543599,1094842,71703,70449,101,4,D,0.7,7644,R,-12.4,-135762,R,-6.26,-64059,YES,Geary; Lyon; Riley; Sedgwick; Seward
+sos,Secretary of State,65.0917,3.8183,0.6904,fitted_4dp,515738,524555,1086329,51633,45931,97,8,R,-0.81,-8817,R,-10.32,-112083,R,-5.84,-60450,,Geary; Lyon; Riley; Sedgwick; Seward
+ag,Attorney General,67.5582,6.4993,0.668,stated_ag_fit,552753,539297,1092050,74243,73432,103,2,D,1.23,13456,R,-12.36,-135030,R,-5.97,-60787,YES,Finney; Geary; Lyon; Riley; Sedgwick; Seward
+treas,State Treasurer,69.6773,-0.4427,0.724,fitted_4dp,479827,554383,1083301,12097,-1471,47,58,R,-6.88,-74556,R,-9.12,-98750,R,-8.09,-86653,,Riley; Seward
+ins,Commissioner of Insurance,65.7184,3.6113,0.715,fitted_4dp,513291,530494,1082558,46214,43595,93,12,R,-1.59,-17203,R,-10.13,-109631,R,-6.12,-63417,,Riley; Seward

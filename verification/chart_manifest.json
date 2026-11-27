@@ -1,0 +1,370 @@
+{
+ "races": {
+  "sen": {
+   "path": "/workspace/kansas-reverse/graphics/1_KS_senate_injection_removed.png",
+   "before_pts": 5.053659618727589,
+   "after_pts": -8.594358012030229,
+   "before_pts_disp": 5.05,
+   "after_pts_disp": -8.59,
+   "before_votes": 55585,
+   "after_votes": -94529,
+   "I": 75057,
+   "n_pos": 102,
+   "win_b": "D",
+   "win_a": "R",
+   "title": "When you remove the injection equation / share injection, this is what happens",
+   "subtitle": "United States Senate  \u00b7  unofficial 2026*"
+  },
+  "gov": {
+   "path": "/workspace/kansas-reverse/graphics/2_KS_governor_injection_removed.png",
+   "before_pts": 0.6981829341585362,
+   "after_pts": -12.40014540910926,
+   "before_pts_disp": 0.7,
+   "after_pts_disp": -12.4,
+   "before_votes": 7644,
+   "after_votes": -135762,
+   "I": 71703,
+   "n_pos": 101,
+   "win_b": "D",
+   "win_a": "R",
+   "title": "When you remove the injection equation / share injection, this is what happens",
+   "subtitle": "Governor  \u00b7  unofficial 2026*"
+  },
+  "sos": {
+   "path": "/workspace/kansas-reverse/graphics/3_KS_secretary_of_state_injection_removed.png",
+   "before_pts": -0.8116325717163032,
+   "after_pts": -10.317592552532428,
+   "before_pts_disp": -0.81,
+   "after_pts_disp": -10.32,
+   "before_votes": -8817,
+   "after_votes": -112083,
+   "I": 51633,
+   "n_pos": 97,
+   "win_b": "R",
+   "win_a": "R",
+   "title": "When you remove the injection equation / share injection, this is what happens",
+   "subtitle": "Secretary of State  \u00b7  unofficial 2026*"
+  },
+  "ag": {
+   "path": "/workspace/kansas-reverse/graphics/4_KS_attorney_general_injection_removed.png",
+   "before_pts": 1.2321780138272058,
+   "after_pts": -12.364818460693192,
+   "before_pts_disp": 1.23,
+   "after_pts_disp": -12.36,
+   "before_votes": 13456,
+   "after_votes": -135030,
+   "I": 74243,
+   "n_pos": 103,
+   "win_b": "D",
+   "win_a": "R",
+   "title": "When you remove the injection equation / share injection, this is what happens",
+   "subtitle": "Attorney General  \u00b7  unofficial 2026*"
+  },
+  "treas": {
+   "path": "/workspace/kansas-reverse/graphics/5_KS_treasurer_injection_removed.png",
+   "before_pts": -6.882297717808808,
+   "after_pts": -9.115656682676375,
+   "before_pts_disp": -6.88,
+   "after_pts_disp": -9.12,
+   "before_votes": -74556,
+   "after_votes": -98750,
+   "I": 12097,
+   "n_pos": 47,
+   "win_b": "R",
+   "win_a": "R",
+   "title": "When you remove the injection equation / share injection, this is what happens",
+   "subtitle": "State Treasurer  \u00b7  unofficial 2026*"
+  },
+  "ins": {
+   "path": "/workspace/kansas-reverse/graphics/6_KS_insurance_injection_removed.png",
+   "before_pts": -1.5891065420975135,
+   "after_pts": -10.12703245461213,
+   "before_pts_disp": -1.59,
+   "after_pts_disp": -10.13,
+   "before_votes": -17203,
+   "after_votes": -109631,
+   "I": 46214,
+   "n_pos": 93,
+   "win_b": "R",
+   "win_a": "R",
+   "title": "When you remove the injection equation / share injection, this is what happens",
+   "subtitle": "Commissioner of Insurance  \u00b7  unofficial 2026*"
+  }
+ },
+ "totals": {
+  "path": "/workspace/kansas-reverse/graphics/7_KS_votes_removed_by_race.png",
+  "values": {
+   "sen": 75057,
+   "gov": 71703,
+   "sos": 51633,
+   "ag": 74243,
+   "treas": 12097,
+   "ins": 46214
+  },
+  "n_pos": {
+   "sen": 102,
+   "gov": 101,
+   "sos": 97,
+   "ag": 103,
+   "treas": 47,
+   "ins": 93
+  }
+ },
+ "top10": {
+  "path": "/workspace/kansas-reverse/graphics/8_KS_top10_by_race.png",
+  "values": {
+   "sen": [
+    [
+     "Johnson",
+     18922
+    ],
+    [
+     "Sedgwick",
+     16476
+    ],
+    [
+     "Shawnee",
+     4288
+    ],
+    [
+     "Leavenworth",
+     2692
+    ],
+    [
+     "Butler",
+     2568
+    ],
+    [
+     "Riley",
+     2364
+    ],
+    [
+     "Reno",
+     1955
+    ],
+    [
+     "Saline",
+     1710
+    ],
+    [
+     "Miami",
+     1338
+    ],
+    [
+     "Lyon",
+     1183
+    ]
+   ],
+   "gov": [
+    [
+     "Sedgwick",
+     16693
+    ],
+    [
+     "Johnson",
+     15569
+    ],
+    [
+     "Shawnee",
+     4161
+    ],
+    [
+     "Butler",
+     2730
+    ],
+    [
+     "Leavenworth",
+     2543
+    ],
+    [
+     "Riley",
+     2355
+    ],
+    [
+     "Reno",
+     1970
+    ],
+    [
+     "Saline",
+     1728
+    ],
+    [
+     "Miami",
+     1263
+    ],
+    [
+     "McPherson",
+     1194
+    ]
+   ],
+   "sos": [
+    [
+     "Sedgwick",
+     12578
+    ],
+    [
+     "Johnson",
+     12000
+    ],
+    [
+     "Shawnee",
+     3104
+    ],
+    [
+     "Butler",
+     1984
+    ],
+    [
+     "Leavenworth",
+     1950
+    ],
+    [
+     "Riley",
+     1796
+    ],
+    [
+     "Reno",
+     1336
+    ],
+    [
+     "Saline",
+     1197
+    ],
+    [
+     "Finney",
+     967
+    ],
+    [
+     "Miami",
+     891
+    ]
+   ],
+   "ag": [
+    [
+     "Sedgwick",
+     16969
+    ],
+    [
+     "Johnson",
+     16877
+    ],
+    [
+     "Shawnee",
+     4182
+    ],
+    [
+     "Leavenworth",
+     2889
+    ],
+    [
+     "Butler",
+     2701
+    ],
+    [
+     "Riley",
+     2396
+    ],
+    [
+     "Reno",
+     2062
+    ],
+    [
+     "Saline",
+     1764
+    ],
+    [
+     "Miami",
+     1265
+    ],
+    [
+     "Finney",
+     1237
+    ]
+   ],
+   "treas": [
+    [
+     "Sedgwick",
+     5825
+    ],
+    [
+     "Butler",
+     953
+    ],
+    [
+     "Leavenworth",
+     921
+    ],
+    [
+     "Riley",
+     666
+    ],
+    [
+     "Finney",
+     521
+    ],
+    [
+     "Seward",
+     495
+    ],
+    [
+     "Geary",
+     458
+    ],
+    [
+     "Lyon",
+     286
+    ],
+    [
+     "Ford",
+     283
+    ],
+    [
+     "Reno",
+     241
+    ]
+   ],
+   "ins": [
+    [
+     "Johnson",
+     11131
+    ],
+    [
+     "Sedgwick",
+     10294
+    ],
+    [
+     "Shawnee",
+     2546
+    ],
+    [
+     "Leavenworth",
+     2042
+    ],
+    [
+     "Butler",
+     1892
+    ],
+    [
+     "Riley",
+     1570
+    ],
+    [
+     "Reno",
+     1417
+    ],
+    [
+     "Saline",
+     1204
+    ],
+    [
+     "Miami",
+     824
+    ],
+    [
+     "McPherson",
+     793
+    ]
+   ]
+  }
+ }
+}
